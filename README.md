@@ -7,7 +7,7 @@
 - 🥤 I like Flask and Django and building with web frameworks
 - 🎮 I like making bad video games with JavaScript
 - 👁️ I write bad computer vision experiments
-- 🌱 I’m currently learning data structures and algorithms in Python from Goodrich et al, but they don't know that
+- 🌱 I’m currently spinning up on TypeScript but I still don't understand how to structure async code lmao
 - 💞️ I’m looking to collaborate on anything you like <3
 - 🖥️ I work for [@FiniteStateInc](https://finitestate.io/)
 - 📫 Catch my contact info on my website, [vidovi.ch](https://vidovi.ch/)

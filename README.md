@@ -9,7 +9,7 @@
 - 👁️ I write bad computer vision experiments
 - 🌱 I’m currently spinning up on TypeScript but I still don't understand how to structure async code lmao
 - 💞️ I’m looking to collaborate on anything you like <3
-- 🖥️ I work for [@FiniteStateInc](https://finitestate.io/)
+- 🖥️ I work for [@Reach-Security](https://reach.security/)
 - 📫 Catch my contact info on my website, [vidovi.ch](https://vidovi.ch/)
 - 🐦 Send me a message on [LinkedIn](https://www.linkedin.com/in/samuel-vidovich/)
 - 📷 Or check out my dumbass pictures on [instagram](https://www.instagram.com/integer_ring/) ( not a frequent flier )
